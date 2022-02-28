@@ -1,0 +1,2 @@
+# Minolib
+FirestormMinoが使うためのライブラリ

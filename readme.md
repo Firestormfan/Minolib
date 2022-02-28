@@ -9,7 +9,7 @@ pip install .
 
 or
 
-pip install git+https://github.com/Firestormfan/Minolib/issues
+pip install git+https://github.com/Firestormfan/Minolib
 ```
 
 Minolib.R5lib
